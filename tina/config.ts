@@ -51,7 +51,7 @@ export default defineConfig({
       {
       name: "work",
       label: "Portfolios",
-      path: "content/portfolios",
+      path: "content/portfolio",
       fields: [
         {
           type: "string",
@@ -68,6 +68,15 @@ export default defineConfig({
         },
       ],
     },
+    {
+      name: "about",
+      label: "About Page",
+      path: "content/about",
+      fields: [
+        { type: "string", name: "title", label: "Title" },
+        { type: "rich-text", name: "body", label: "Body", isBody: true },
+      ],
+    },    
     ],
   },
 });
