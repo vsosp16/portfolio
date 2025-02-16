@@ -48,6 +48,26 @@ export default defineConfig({
           },
         ],
       },
+      {
+      name: "work",
+      label: "Portfolios",
+      path: "content/portfolios",
+      fields: [
+        {
+          type: "string",
+          name: "title",
+          label: "Title",
+          isTitle: true,
+          required: true,
+        },
+        {
+          type: "rich-text",
+          name: "body",
+          label: "Body",
+          isBody: true,
+        },
+      ],
+    },
     ],
   },
 });
