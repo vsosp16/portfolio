@@ -54,3 +54,7 @@ params:
   editURL:
     enable: false
     base: "https://github.com/vsosp16/portfolio/"
+outputs:
+  home : ["HTML", "JSON"]
+  section : ["HTML", "JSON"]
+  page : ["HTML", "JSON"]

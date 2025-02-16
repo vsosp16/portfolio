@@ -4,7 +4,29 @@ title: WordPress Web Projects
 
 ## Here is the WordPress web site list:
 
-**ONLINE**
+### Here the last works:
+
+[https://www.optimumisitmecihazi.com/](https://www.optimumisitmecihazi.com/)
+
+[https://eformul.net](https://eformul.net) / [https://tikohesap.com/](https://tikohesap.com/)
+
+[https://tetraboss.com](https://tetraboss.com)
+
+[https://hasbelagac.com](https://hasbelagac.com)
+
+[https://chapmanirrigation.com](https://chapmanirrigation.com)
+
+[https://uxly.software](https://uxly.software)
+
+[https://coasterhouse.com](https://coasterhouse.com)
+
+[https://oykucanlicurates.art](https://oykucanlicurates.art)
+
+[https://clay.pixelogs.com/](https://clay.pixelogs.com/)
+
+### Bunch of old works:
+
+##### **ONLINE - Still Alive**
 
 [https://coasterhouse.com](https://coasterhouse.com)
 
@@ -40,27 +62,7 @@ title: WordPress Web Projects
 
 [https://website.biz.tr/](https://website.biz.tr/)
 
-### Here the last works:
-
-[https://www.optimumisitmecihazi.com/](https://www.optimumisitmecihazi.com/)
-
-[https://eformul.net](https://eformul.net) / [https://tikohesap.com/](https://tikohesap.com/)
-
-[https://tetraboss.com](https://tetraboss.com)
-
-[https://hasbelagac.com](https://hasbelagac.com)
-
-[https://chapmanirrigation.com](https://chapmanirrigation.com)
-
-[https://uxly.software](https://uxly.software)
-
-[https://coasterhouse.com](https://coasterhouse.com)
-
-[https://oykucanlicurates.art](https://oykucanlicurates.art)
-
-clay.pixelogs.com
-
-OFFLINE - GONE
+##### **OFFLINE - GONE**
 
 [https://gurasmuhendislik.com](https://gurasmuhendislik.com)
 

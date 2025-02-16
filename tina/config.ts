@@ -65,6 +65,28 @@ export default defineConfig({
           name: "body",
           label: "Body",
           isBody: true,
+          templates: [
+            {
+              name: "shortcode",
+              label: "Hugo Shortcode",
+              fields: [
+                {
+                  name: "content",
+                  label: "Shortcode Content",
+                  type: "string",
+                  ui: { component: "textarea" },
+                },
+              ],
+            },
+          ],
+        },
+        {
+          type: "string",
+          name: "shortcodes",
+          label: "Hugo Shortcodes",
+          ui: {
+            component: "textarea",
+          },
         },
       ],
     },
