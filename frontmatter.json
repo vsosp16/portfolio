@@ -65,10 +65,6 @@
       "path": "[[workspace]]/content"
     },
     {
-      "title": "posts",
-      "path": "[[workspace]]/content/posts"
-    },
-    {
       "title": "portfolio",
       "path": "[[workspace]]/content/portfolio"
     },

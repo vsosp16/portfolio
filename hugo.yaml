@@ -46,7 +46,7 @@ menu:
       params:
         type: search
     - name: GitHub
-      weight: 6
+      weight: 8
       url: "https://github.com/vsosp16/"
       params:
         icon: github
@@ -56,15 +56,15 @@ menu:
       params:
         icon: x-twitter
     - name: Instagram
-      weight: 8
+      weight: 6
       url: "https://www.instagram.com/vsosp16"
       params:
         icon: instagram
-    - name: Discord
-      weight: 8
-      url: "https://www.discord.com/vsosp16"
+    - name: LinkedIn
+      weight: 9
+      url: "https://www.linkedin.com/in/yasincabuk"
       params:
-        icon: discord        
+        icon: linkedin        
         
 markup:
   # allow raw html
