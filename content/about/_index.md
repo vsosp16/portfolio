@@ -1,5 +1,4 @@
 ---
-type: about
 title: Professional Work History
 ---
 <style>
