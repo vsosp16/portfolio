@@ -1,7 +1,7 @@
 ---
 title: WordPress Themes
 type: docs
-prev: portfolio/WordPress/
+prev: portfolio/
 ---
 
 This page is under a folder.

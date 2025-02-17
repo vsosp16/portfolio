@@ -1,6 +1,7 @@
 ---
 title: WordPress Web Projects
 type: docs
+prev: portfolio
 ---
 
 ## Here is the WordPress web site list:

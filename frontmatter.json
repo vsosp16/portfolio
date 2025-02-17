@@ -69,16 +69,8 @@
       "path": "[[workspace]]/content/portfolio"
     },
     {
-      "title": "docs",
-      "path": "[[workspace]]/content/docs"
-    },
-    {
       "title": "about",
       "path": "[[workspace]]/content/about"
-    },
-    {
-      "title": "folder",
-      "path": "[[workspace]]/content/docs/folder"
     }
   ],
   "frontMatter.content.snippets": {
