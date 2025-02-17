@@ -98,6 +98,6 @@ Managed end-to-end web development operations while handling infrastructure and 
 
 ---
 
-*This work history demonstrates my progression from local web development projects to international remote work, highlighting my ability to adapt to different technical requirements and business environments while maintaining a focus on quality and performance.*
+*This work history demonstrates my progression from local web development projects to international remote work, highlighting my ability to adapt to different technical requirements and business environments.*
 
 {{% /steps %}}
