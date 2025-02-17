@@ -71,28 +71,24 @@
     {
       "title": "about",
       "path": "[[workspace]]/content/about"
+    },
+    {
+      "title": "content",
+      "path": "[[workspace]]/content"
+    },
+    {
+      "title": "WordPress",
+      "path": "[[workspace]]/content/portfolio/WordPress"
+    },
+    {
+      "title": "about",
+      "path": "[[workspace]]/content/about"
+    },
+    {
+      "title": "blog",
+      "path": "[[workspace]]/content/blog"
     }
   ],
-  "frontMatter.content.snippets": {
-    "Snipet1": {
-      "description": "Lovely Snipet",
-      "body": [
-        "{{< cards >}}",
-        "  {{< card link=\"/\" title=\"Image Card\" image=\"https://source.unsplash.com/featured/800x600?landscape\" subtitle=\"Unsplash Landscape\" >}}",
-        "  {{< card link=\"/\" title=\"Local Image\" image=\"/images/card-image-unprocessed.jpg\" subtitle=\"Raw image under static directory.\" >}}",
-        "  {{< card link=\"/\" title=\"Local Image\" image=\"images/space.jpg\" subtitle=\"Image under assets directory, processed by Hugo.\" method=\"Resize\" options=\"600x q80 webp\" >}}",
-        "{{< /cards >}}"
-      ],
-      "isMediaSnippet": true
-    },
-    "TitleCard": {
-      "description": "Card with Title and Link",
-      "body": [
-        "{{< cards >}}",
-        "  {{< card link=\"docs\" title=\"Docs\" icon=\"book-open\" >}}",
-        "{{< /cards >}}"
-      ],
-      "fields": []
-    }
-  }
+  "frontMatter.content.snippets": {},
+  "frontMatter.dashboard.openOnStart": true
 }
