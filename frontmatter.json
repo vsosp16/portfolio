@@ -42,6 +42,11 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "toc",
+          "name": "toc",
+          "type": "boolean"
         }
       ]
     }
@@ -91,6 +96,15 @@
         "{{< /cards >}}"
       ],
       "isMediaSnippet": true
+    },
+    "TitleCard": {
+      "description": "Card with Title and Link",
+      "body": [
+        "{{< cards >}}",
+        "  {{< card link=\"docs\" title=\"Docs\" icon=\"book-open\" >}}",
+        "{{< /cards >}}"
+      ],
+      "fields": []
     }
   }
 }
