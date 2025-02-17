@@ -2,11 +2,24 @@
 type: about
 title: Professional Work History
 ---
-..
+<style>
+
+h3:not(:first-of-type):not(.s) {
+    margin-top: 150px !important;
+}
+
+a.ltr\:hx-pl-4.rtl\:hx-pr-4.hx-inline-block.hx-text-gray-500.hover\:hx-text-gray-900.dark\:hx-text-gray-400.dark\:hover\:hx-text-gray-300.contrast-more\:hx-text-gray-900.contrast-more\:hx-underline.contrast-more\:dark\:hx-text-gray-50.hx-w-full.hx-break-words {
+    margin-top: 30px;
+}
+p.hx-mb-4.hx-font-semibold.hx-tracking-tight {
+    margin-bottom: -30px;
+}
+
+</style>
 
 {{% steps %}}
 
-## 2022 - 2024
+
 ### Software Engineer at UXly Software
 *August 2022 - March 2024 | San Francisco (Remote)*
 
@@ -32,9 +45,6 @@ Led development initiatives for Silicon Valley startups, focusing on high-perfor
 - Regular A/B testing to optimize user engagement
 
 
-
-## 2016 - 2021
-
 ### Web Master and Technical Support at Dedo Yazılım
 *April 2016 - July 2021 | Bursa*
 
@@ -57,7 +67,6 @@ Served as the primary web development resource, handling everything from initial
 - Achieved 99% uptime for hosted solutions
 - Delivered pixel-perfect implementations matching client requirements
 
-## 2019 - 2025
 ### Freelance Developer and Web Consultant
 *July 2019 - Present | Global*
 
@@ -77,29 +86,24 @@ Provide comprehensive web development and consulting services to small and mediu
 - Optimized existing websites for improved performance and user experience
 
 
-
-## 2021 - 2022
-
 ### Web Developer at Tetraport Teknoloji
 *February 2022 - August 2022 | Istanbul (Remote)*
 
 Managed end-to-end web development operations while handling infrastructure and client relationships for a growing technology company.
 
-##### Technical Responsibilities:
+#### Technical Responsibilities:
 - Managed Windows-based VPS infrastructure with 99% uptime
 - Configured and maintained DNS systems and corporate email infrastructure
 - Developed and optimized websites for SAAS projects
 - Led WordPress and WooCommerce implementations
 
-##### Business Impact:
+#### Business Impact:
 - 20% improvement in client satisfaction through enhanced e-commerce consulting
 - 25% increase in organic traffic through SEO and performance optimizations
 - 15% improvement in user experience through new feature implementations
 
-
+{{% /steps %}}
 
 ---
 
 *This work history demonstrates my progression from local web development projects to international remote work, highlighting my ability to adapt to different technical requirements and business environments.*
-
-{{% /steps %}}
