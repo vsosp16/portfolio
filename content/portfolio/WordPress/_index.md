@@ -7,4 +7,4 @@ sidebar:
   open: true
 ---
 
-Pages can be organized into folders.
+WordPress core contributions will be here.

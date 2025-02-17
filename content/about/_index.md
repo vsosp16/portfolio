@@ -96,6 +96,8 @@ Managed end-to-end web development operations while handling infrastructure and 
 - 25% increase in organic traffic through SEO and performance optimizations
 - 15% improvement in user experience through new feature implementations
 
+
+
 ---
 
 *This work history demonstrates my progression from local web development projects to international remote work, highlighting my ability to adapt to different technical requirements and business environments.*
