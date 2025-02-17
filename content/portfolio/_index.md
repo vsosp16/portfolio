@@ -3,7 +3,7 @@ date: '2025-02-16T15:01:30.000Z'
 title: Portfolio
 ---
 
-This is the Portfolio landing pagex2
+This is the Portfolio landing page
 
 {{< card link="about" title="WordPress Themes I created" icon="user" >}}
 
