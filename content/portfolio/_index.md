@@ -1,36 +1,15 @@
 ---
 date: '2025-02-16T15:01:30.000Z'
-draft: true
 title: Portfolio
-shortcodes: >-
-  {{< cards >}}
-
-  {{< card link="docs" title="WordPress Web Sites I worked on" icon="book-open"
-  >}}
-
-  {{< card link="about" title="WordPress Plugins I created" icon="user" >}}
-
-  {{< card link="about" title="WordPress Themes I created" icon="user" >}}
-
-  {{< /cards >}}
 ---
 
-This is the Portfolio landing page qweqwe
+This is the Portfolio landing pagex2
 
-123123
-
-any errors?23234
-
-\*\*\*
-
-## Explore
-
-```hugo
-{{< cards >}}
-{{< card link="docs" title="WordPress Web Sites I worked on" icon="book-open" >}}
-{{< card link="about" title="WordPress Plugins I created" icon="user" >}}
 {{< card link="about" title="WordPress Themes I created" icon="user" >}}
-{{< /cards >}}
-```
 
-{{ partial "render-shortcodes.html" .Params.shortcodes }}
+
+{{< cards >}}
+  {{< card link="/" title="Image Card" image="https://source.unsplash.com/featured/800x600?landscape" subtitle="Unsplash Landscape" >}}
+  {{< card link="/" title="Local Image" image="/images/card-image-unprocessed.jpg" subtitle="Raw image under static directory." >}}
+  {{< card link="/" title="Local Image" image="images/space.jpg" subtitle="Image under assets directory, processed by Hugo." method="Resize" options="600x q80 webp" >}}
+{{< /cards >}}

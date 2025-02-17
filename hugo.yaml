@@ -18,30 +18,43 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
-    - name: About
+    - name: About Yasin
+      pageRef: /
+      weight: 1  
+    - name: Portfolio
+      pageRef: /portfolio
+      weight: 2      
+    - name: Work History
       pageRef: /about
-      weight: 2
+      weight: 3
     - name: Contact ↗
       url: "mailto:yasincabuk16@gmail.com"
-      weight: 3
-    - name: Search
       weight: 4
+    - name: Search
+      weight: 5
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 6
       url: "https://github.com/vsosp16/"
       params:
         icon: github
     - name: Twitter
-      weight: 6
+      weight: 7
       url: "https://twitter.com/vsosp16/"
       params:
         icon: x-twitter
-
+    - name: Instagram
+      weight: 8
+      url: "https://www.instagram.com/vsosp16"
+      params:
+        icon: instagram
+    - name: Discord
+      weight: 8
+      url: "https://www.discord.com/vsosp16"
+      params:
+        icon: discord        
+        
 params:
   navbar:
     displayTitle: true
@@ -49,12 +62,8 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
     enable: false
     base: "https://github.com/vsosp16/portfolio/"
-outputs:
-  home : ["HTML", "JSON"]
-  section : ["HTML", "JSON"]
-  page : ["HTML", "JSON"]
