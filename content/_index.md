@@ -1,11 +1,12 @@
 ---
 title: Yasin ÇABUK
 toc: false
+description: WordPress Developer and Web Consultant. Loves remote work, collaboration. and freelancing.
 ---
 <div class="homeImage">
 {{< cards cols="1">}}
 <h2>
-  {{< card link="/" title="WordPress Developer and Web Consultant " image="images/YasinWHITE.png" subtitle="Image under assets directory, processed by Hugo." method="Resize" options="600x q80 webp" >}}
+  {{< card link="/" title="WordPress Developer and Web Consultant " image="images/YasinWHITE.png" subtitle="Looking for Remote Projects" method="Resize" options="600x q80 webp" >}}
 </h2>
 {{< /cards >}}
 </div>
