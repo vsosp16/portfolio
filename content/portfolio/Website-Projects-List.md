@@ -2,6 +2,8 @@
 title: Website Projects
 type: docs
 prev: portfolio
+width: wide
+disableSidebar: true  
 ---
 
 ## Here is the WordPress web site list:
