@@ -1,0 +1,4 @@
+.content :where(h1, h2, h3, h4, h5, h6, p):not(:where([class~=not-prose],[class~=not-prose] *)):is(html[class~=dark] *) {
+    --tw-text-opacity: 0.81;
+    color: rgb(241 245 249 / var(--tw-text-opacity));
+}
