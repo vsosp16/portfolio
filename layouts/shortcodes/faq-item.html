@@ -1,0 +1,100 @@
+{{- $title := .Get "title" -}}
+{{- $id := .Get "id" | default (printf "faq-%s" (anchorize $title)) -}}
+
+<div class="faq-item hx-mb-2">
+  <button 
+    class="faq-toggle hx-w-full hx-flex hx-justify-between hx-items-center hx-p-4 hx-rounded-lg hx-text-left hx-font-medium hx-transition-all hx-duration-200 hx-border hx-border-gray-200 dark:hx-border-neutral-800 hx-text-gray-700 dark:hx-text-neutral-200 hx-bg-transparent hx-shadow-sm dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hover:hx-border-gray-300 dark:hover:hx-border-neutral-700 hover:hx-bg-slate-50 dark:hover:hx-bg-neutral-900 hover:hx-text-gray-900 dark:hover:hx-text-neutral-50 hover:hx-shadow-md active:hx-shadow-sm active:hx-shadow-gray-200"
+    id="heading-{{ $id }}"
+    aria-expanded="false"
+    aria-controls="content-{{ $id }}"
+    onclick="toggleFAQ('{{ $id }}')"
+  >
+    <span>{{ $title }}</span>
+    <span class="faq-icon hx-transform hx-transition-transform">
+      {{- partial "utils/icon" (dict "name" "chevron-down" "attributes" "height=20 width=20") -}}
+    </span>
+  </button>
+  <div 
+    id="content-{{ $id }}" 
+    class="faq-content hx-overflow-hidden hx-max-h-0 hx-transition-all hx-duration-300 hx-ease-in-out"
+    aria-labelledby="heading-{{ $id }}"
+    hidden
+  >
+    <div class="hx-p-4 hx-bg-white dark:hx-bg-neutral-900 hx-rounded-b-lg hx-border hx-border-gray-200 dark:hx-border-neutral-800 hx-border-t-0">
+      {{- .Inner | markdownify -}}
+    </div>
+  </div>
+</div>
+<style>
+  /* Additional custom styles for FAQ component */
+.faq-item:first-child .faq-toggle {
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
+
+.faq-item:last-child .faq-content > div {
+  border-bottom-left-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+}
+
+/* Animation for the content */
+.faq-content {
+  transition: max-height 0.3s ease-in-out;
+}
+
+/* Active state styling */
+.faq-toggle[aria-expanded="true"] {
+  background-color: theme('colors.primary.50');
+  color: theme('colors.primary.700');
+}
+
+.dark .faq-toggle[aria-expanded="true"] {
+  background-color: theme('colors.primary.900');
+  color: theme('colors.primary.300');
+}
+/* Yuvarlak köşeler için güncelleme */
+.faq-item .faq-toggle {
+  border-radius: 0.5rem;
+}
+
+.faq-item .faq-content > div {
+  border-radius: 0.5rem;
+}
+
+/* Kapalı durumda soru tam yuvarlak */
+.faq-item .faq-toggle {
+  border-radius: 0.5rem;
+}
+
+/* Açık durumda sorunun alt köşeleri düz */
+.faq-toggle[aria-expanded="true"] {
+  border-radius: 0.5rem 0.5rem 0 0;
+  background-color: transparent;
+  border-bottom: none;
+}
+
+/* İçerik kısmı sadece alt köşeleri yuvarlak */
+.faq-item .faq-content > div {
+  border-radius: 0 0 0.5rem 0.5rem;
+}
+
+/* Card yapısına uygun arka plan ve hover efektleri */
+.faq-toggle {
+  background-color: transparent;
+  border: 1px solid var(--tw-border-color, #e5e7eb);
+}
+
+.faq-toggle:hover {
+  background-color: rgba(0, 0, 0, 0.03);
+}
+
+.dark .faq-toggle:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+/* Açık durumda içerik ile soruyu birleştir */
+.faq-toggle[aria-expanded="true"] + .faq-content > div {
+  border-top: none;
+}
+/* Diğer CSS özellikleri aynı kalır */
+</style>

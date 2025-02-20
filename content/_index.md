@@ -42,38 +42,104 @@ h1.hx-text-center.hx-mt-2.hx-text-4xl.hx-font-bold.hx-tracking-tight.hx-text-sla
 
 <div class="center">
 {{< cards cols="1">}}
-  {{< card link="https://calendly.com/yasincabuk/30min" title="Contact me via mail" icon="mail" >}}
+  {{< card link="mailto:theveloperyasin@gmail.com" title="Contact me via mail" icon="mail" >}}
 {{< /cards >}}
 </div>
 
-## About
-With over 8 years of experience in web development, I specialize in creating high-performance digital solutions that drive business growth. My journey in tech has taken me from local projects in Turkey to collaborating with Silicon Valley startups, giving me a unique perspective on both emerging markets and global tech trends.
-### Professional Journey
-My career began with a foundation in Computer Aided Design and Animation, which gave me an eye for detail and user experience that proved invaluable in web development. While pursuing my Business Administration degree, I started working with local businesses, helping them establish their digital presence. This combination of technical skills and business acumen has been crucial in understanding not just how to build websites, but how to create digital solutions that deliver real business value.
-As a Full Stack WordPress Developer, I've had the privilege of working on projects ranging from small business websites to enterprise-level applications. My experience includes leading a significant Silicon Valley project where we achieved a 30% reduction in bounce rates and 25% faster page load times. I'm particularly proud of my work integrating modern development tools like Timber template engine with WordPress, which improved development efficiency by 70% while reducing maintenance costs.
-### Technical Philosophy
-I believe in building websites that are not just visually appealing but also technically robust. My approach combines:
+## About Me
 
-Performance-first development methodology
-Secure and scalable architecture
-User-centered design principles
-SEO-optimized structure from the ground up
+{{< faq >}}
 
-### Areas of Expertise
-My technical toolkit includes deep expertise in WordPress development, complemented by proficiency in:
+  {{< faq-item title="Who is Yasin?" >}}
+  Fullstack WordPress Developer (Frontend-Oriented) with 8 years of expertise in WordPress development. Specialized in Web development, SEO, SEM, and e-commerce solutions. My expertise lies in frontend development and technical design, but I am also capable of managing end-to-end web projects. Just like any developer should do, I find or create the necessary solution for any web project.
+  {{< /faq-item >}}
 
-- **Frontend**: HTML5, CSS3, JavaScript, jQuery, React
-- **Backend**: PHP, MySQL, REST APIs
-- **DevOps**: Git, Linux, AWS/Google Cloud
-- **E-commerce**: WooCommerce, Shopify
-- **Design Tools**: Figma, Adobe XD
-- **Performance Optimization & Security**: Cisco Certification
+  {{< faq-item title="Technical Support Yasin?" >}}
+  Back in times when I was working in my local area, I worked as a support guy for a brief period. I switched to customer support roles that required less cognitive load. Working remotely allows an easy transition between roles. 
+  I also have hands-on experience with setting up physical servers, client devices, and access points for restaurant automation systems.
+  {{< /faq-item >}}
 
-### Current Focus
-Currently pursuing a Master's in Management Information Systems, I'm expanding my knowledge in enterprise-level system architecture and modern development methodologies. I'm particularly interested in the intersection of traditional CMS platforms with modern development practices, exploring ways to bring enterprise-level performance to WordPress-based solutions.
-Beyond Development
-When I'm not coding, I'm actively involved in staying current with web development trends and best practices. I believe in continuous learning and regularly experiment with new technologies and methodologies to enhance my development toolkit.
-### Looking Forward
-I'm always open to challenging projects that push the boundaries of what's possible with WordPress and modern web technologies. Whether it's optimizing performance, implementing complex integrations, or building custom solutions, I bring a combination of technical expertise and business understanding to every project.
+  {{< faq-item title="Professional Background" >}}
+  First 4 years of my career were at a local software agency in my city. Here I gained experience in various fields. Later, I worked as a freelancer for a while and finally met with UXly Software, a company providing services specifically for Silicon Valley startups. This experience boosted my confidence in handling global projects.
+  In the meantime, I served long and short-term services for other businesses and completed numerous freelance projects for individual clients.
+  {{< /faq-item >}}
 
-*Available for select projects and consulting opportunities. Let's discuss how we can work together to bring your digital vision to life.*
+  {{< faq-item title="Projects - What I have done?" >}}
+  - A WordPress theme available on [Envato](#).
+  - Built custom WooCommerce [REST API frontend dashboard](#) solutions.
+  - Elementor and Timber (.twig) [Template engine integration](#).
+  - Published Several [free plugins](#) in the WordPress.org library.
+  - An OpenCart plugin listed in the official OpenCart repository.
+  - Built E-commerce projects with WooCommerce, Shopify, and OpenCart.
+  - Built a Custom PHP e-commerce project.
+  - Created Figma to Webflow/WordPress projects.
+  - Managed and contributed to a variety of web projects across different industries.
+  
+  Check out my full [portfolio here](/portfolio/).
+  {{< /faq-item >}}
+
+  {{< faq-item title="Why Choose Yasin?" >}}
+  1. If you're looking for a WordPress expert, congratulations—you've found the right person.
+  2. If design and aesthetics are your top priorities, I can ensure your project stands out.
+  3. If you need a WordPress developer who can adapt to future transitions and evolving project requirements, I am the right fit.
+  4. If you’re looking for a developer who focuses on solving problems rather than just building projects, you’re in the right place.
+  5. If you’ve built an MVP with AI and need a traditional developer to maintain and improve it, I’m here to help (and yes, I use AI tools too).
+  6. If you have a promising startup idea with investment potential and are offering equity along with minimal compensation, let’s talk.
+  7. If you need to optimize your WordPress project like server or cloud performance, yes, you've found the guy for that.
+  8. I'm different from much of the WP Developers because I also build website projects. I use those no-code/low-code tools, I mess with people, rip the necessary info from their mouths if I have to, and build their projects using different methods from different products/developers. I'm not some guru, but I can guide you to success.
+  {{< /faq-item >}}
+
+  {{< faq-item title="Why I Stand Out" >}}
+  - **Frontend Expertise:** My strong focus on design and user experience ensures your website not only functions well but also looks stunning.
+  - **Fullstack Capabilities:** From frontend design to backend development and server management, I handle it all.
+  - **Global Experience:** Having worked with Silicon Valley startups, I bring a global perspective to every project.
+  - **Adaptability:** Whether it’s WordPress, headless solutions, or custom PHP projects, I adapt to your needs.
+  - **Problem-Solving Mindset:** I thrive on solving complex challenges and delivering results that drive business growth.
+  {{< /faq-item >}}
+
+  {{< faq-item title="Technical Skills" >}}
+  **WordPress:** Custom Development, Advanced Custom Fields (ACF), Theme & Plugin Development, Gutenberg, Oxygen, Elementor, WPBakery, Divi or any builder.
+  
+  **Frontend:** Web Design, JavaScript, Flux, ReactJS (Basic), SASSY CSS, JSON, HTML5, CSS3 (Semantic).
+  
+  **Backend:** PHP, OOP, MVC, Rest API, MySQL, NextJS (coming soon).
+  
+  **DevOps:** Git, Linux, Cloud Server VPS Setup (AWS/Google), Cheap VPS Setup (better than any shared hosting), Nginx, Apache, OpenLiteSpeed, Cloudflare CDN, Email Infrastructure, Static Site Generation (Hugo/WordPress).
+  
+  **E-commerce:** WooCommerce, Shopify, OpenCart, Custom PHP, B2B, B2C, XML Product Stock Integrations, Payment Solutions.
+  
+  **SEO:** On-page optimization, performance improvements.
+  
+  **Tools:** Figma, Webflow, Photoshop, AI, Rive, Lottie, GSAP, Taxi.js, Locomotive.js, FFMPEG, Version Control Git, Unit Testing with PHPUnit and Jest.
+  {{< /faq-item >}}
+
+  {{< faq-item title="Services I Offer" >}}
+  - **WordPress Consulting:** Expert advice on WordPress projects.
+  - **Custom WordPress Development:** Tailored themes and plugins.
+  - **Website Optimization & Maintenance:** For WordPress and non-WordPress sites.
+  - **E-commerce Integration:** Seamless setup for WooCommerce, Shopify, and OpenCart.
+  - **SEO & Performance Optimization:** Improve speed, rankings, and user experience.
+  - **Web Security & Cloud Scaling:** Secure and optimize your cloud infrastructure.
+  - **Static Site Generation:** Using Hugo or WordPress.
+  - **Headless WordPress Solutions:** Modern, decoupled WordPress architectures.
+  - **Frontend Development & Technical Design:** Pixel-perfect, responsive designs.
+  - **Digital Marketing & SEO Consulting:** Basic strategies to boost your online presence.
+  - **Custom PHP Projects:** Tailored solutions for unique requirements.
+  - **Project Management & Consulting:** End-to-end support for your web projects.
+  {{< /faq-item >}}
+
+  {{< faq-item title="Work Model" >}}
+  I am available for both project-based and hourly engagements. Additionally, I am open to long-term opportunities. We can collaborate through platforms like Upwork or direct contracts.
+  {{< /faq-item >}}
+
+  {{< faq-item title="Pricing" >}}
+  My hourly rate ranges from **$20 to $50**, depending on the complexity and responsibilities involved in the project. I also provide fixed-price estimates for projects.
+  {{< /faq-item >}}
+
+  {{< faq-item title="How to Get in Touch?" >}}
+  Start with an email, and we can schedule an online meeting to assess your needs. You can also connect with me through my social channels listed on this site.
+  {{< /faq-item >}}
+
+{{< /faq >}}
+
+
