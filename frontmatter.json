@@ -52,20 +52,12 @@
       "path": "[[workspace]]/content/portfolio"
     },
     {
-      "title": "about",
-      "path": "[[workspace]]/content/about"
-    },
-    {
       "title": "content",
       "path": "[[workspace]]/content"
     },
     {
       "title": "WordPress",
       "path": "[[workspace]]/content/portfolio/WordPress"
-    },
-    {
-      "title": "about",
-      "path": "[[workspace]]/content/about"
     },
     {
       "title": "blog",

@@ -39,7 +39,7 @@ menu:
       pageRef: /about
       weight: 3
     - name: Contact ↗
-      url: "mailto:yasincabuk16@gmail.com"
+      url: "mailto:theveloperyasin@gmail.com"
       weight: 4
     - name: Search
       weight: 5

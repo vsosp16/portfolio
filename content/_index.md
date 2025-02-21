@@ -6,7 +6,7 @@ description: WordPress Developer and Web Consultant. Loves remote work, collabor
 <div class="homeImage">
 {{< cards cols="1">}}
 <h2>
-  {{< card link="/" title="WordPress Developer and Web Consultant " image="images/YasinWHITE.png" subtitle="Looking for Remote Projects" method="Resize" options="600x q80 webp" >}}
+  {{< card link="/#explore" title="WordPress Developer and Web Consultant " image="images/YasinWHITE.png" subtitle="Looking for Remote Projects" method="Resize" options="600x q80 webp" >}}
 </h2>
 {{< /cards >}}
 </div>
@@ -46,12 +46,14 @@ h1.hx-text-center.hx-mt-2.hx-text-4xl.hx-font-bold.hx-tracking-tight.hx-text-sla
 {{< /cards >}}
 </div>
 
-## About Me
+## About Yasin
 
 {{< faq >}}
 
-  {{< faq-item title="Who is Yasin?" >}}
-  Fullstack WordPress Developer (Frontend-Oriented) with 8 years of expertise in WordPress development. Specialized in Web development, SEO, SEM, and e-commerce solutions. My expertise lies in frontend development and technical design, but I am also capable of managing end-to-end web projects. Just like any developer should do, I find or create the necessary solution for any web project.
+  {{< faq-item title="Frontend Oriented Fullstack WordPress Developer?" >}}
+  Fullstack WordPress Developer (Frontend-Oriented) with 8 years of expertise in WordPress development. 
+  Specialized in Web development, SEO, SEM, and e-commerce solutions. 
+  My expertise lies in frontend development and technical design, but I am also capable of managing end-to-end web projects. Just like any developer should do, I find or create the necessary solution for any web project.
   {{< /faq-item >}}
 
   {{< faq-item title="Technical Support Yasin?" >}}
@@ -62,20 +64,6 @@ h1.hx-text-center.hx-mt-2.hx-text-4xl.hx-font-bold.hx-tracking-tight.hx-text-sla
   {{< faq-item title="Professional Background" >}}
   First 4 years of my career were at a local software agency in my city. Here I gained experience in various fields. Later, I worked as a freelancer for a while and finally met with UXly Software, a company providing services specifically for Silicon Valley startups. This experience boosted my confidence in handling global projects.
   In the meantime, I served long and short-term services for other businesses and completed numerous freelance projects for individual clients.
-  {{< /faq-item >}}
-
-  {{< faq-item title="Projects - What I have done?" >}}
-  - A WordPress theme available on [Envato](#).
-  - Built custom WooCommerce [REST API frontend dashboard](#) solutions.
-  - Elementor and Timber (.twig) [Template engine integration](#).
-  - Published Several [free plugins](#) in the WordPress.org library.
-  - An OpenCart plugin listed in the official OpenCart repository.
-  - Built E-commerce projects with WooCommerce, Shopify, and OpenCart.
-  - Built a Custom PHP e-commerce project.
-  - Created Figma to Webflow/WordPress projects.
-  - Managed and contributed to a variety of web projects across different industries.
-  
-  Check out my full [portfolio here](/portfolio/).
   {{< /faq-item >}}
 
   {{< faq-item title="Why Choose Yasin?" >}}
@@ -97,6 +85,29 @@ h1.hx-text-center.hx-mt-2.hx-text-4xl.hx-font-bold.hx-tracking-tight.hx-text-sla
   - **Problem-Solving Mindset:** I thrive on solving complex challenges and delivering results that drive business growth.
   {{< /faq-item >}}
 
+
+{{< /faq >}}
+
+
+
+## Technical Knowledge and Skills
+
+{{< faq >}}
+
+  {{< faq-item title="Projects - What I have done?" >}}
+  - A WordPress theme available on [Envato](#).
+  - Built custom WooCommerce [REST API frontend dashboard](#) solutions.
+  - Elementor and Timber (.twig) [Template engine integration](#).
+  - Published Several [free plugins](#) in the WordPress.org library.
+  - An OpenCart plugin listed in the official OpenCart repository.
+  - Built E-commerce projects with WooCommerce, Shopify, and OpenCart.
+  - Built a Custom PHP e-commerce project.
+  - Created Figma to Webflow/WordPress projects.
+  - Managed and contributed to a variety of web projects across different industries.
+  
+  Check out my full [portfolio here](/portfolio/).
+  {{< /faq-item >}}
+
   {{< faq-item title="Technical Skills" >}}
   **WordPress:** Custom Development, Advanced Custom Fields (ACF), Theme & Plugin Development, Gutenberg, Oxygen, Elementor, WPBakery, Divi or any builder.
   
@@ -112,6 +123,13 @@ h1.hx-text-center.hx-mt-2.hx-text-4xl.hx-font-bold.hx-tracking-tight.hx-text-sla
   
   **Tools:** Figma, Webflow, Photoshop, AI, Rive, Lottie, GSAP, Taxi.js, Locomotive.js, FFMPEG, Version Control Git, Unit Testing with PHPUnit and Jest.
   {{< /faq-item >}}
+
+{{< /faq >}}
+
+
+## Services and Work Model
+
+{{< faq >}}
 
   {{< faq-item title="Services I Offer" >}}
   - **WordPress Consulting:** Expert advice on WordPress projects.
@@ -136,10 +154,15 @@ h1.hx-text-center.hx-mt-2.hx-text-4xl.hx-font-bold.hx-tracking-tight.hx-text-sla
   My hourly rate ranges from **$20 to $50**, depending on the complexity and responsibilities involved in the project. I also provide fixed-price estimates for projects.
   {{< /faq-item >}}
 
-  {{< faq-item title="How to Get in Touch?" >}}
-  Start with an email, and we can schedule an online meeting to assess your needs. You can also connect with me through my social channels listed on this site.
-  {{< /faq-item >}}
-
 {{< /faq >}}
 
 
+## Contact
+
+{{< faq >}}
+
+  {{< faq-item title="How to Get in Touch?" >}}
+  Let's start with an Email, and we can schedule an online meeting to assess your needs. You can also connect with me through my social media accounts.
+  {{< /faq-item >}}
+
+{{< /faq >}}
