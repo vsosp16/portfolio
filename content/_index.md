@@ -37,7 +37,7 @@ h1.hx-text-center.hx-mt-2.hx-text-4xl.hx-font-bold.hx-tracking-tight.hx-text-sla
   {{< card link="work-history" title="Professional Work History" icon="briefcase" >}}
   {{< card link="portfolio" title="Portfolio" icon="cards" >}}
   {{< card link="blog" title="Blog" icon="book-open" >}}
-  {{< card link="https://calendly.com/yasincabuk/30min" title="Need me for a project?" icon="calendar" >}}
+  {{< card link="<https://calendly.com/yasincabuk/30min>" title="Need me for a project?" icon="calendar" >}}
 {{< /cards >}}
 
 <div class="center">
@@ -51,13 +51,13 @@ h1.hx-text-center.hx-mt-2.hx-text-4xl.hx-font-bold.hx-tracking-tight.hx-text-sla
 {{< faq >}}
 
   {{< faq-item title="Frontend Oriented Fullstack WordPress Developer?" >}}
-  Fullstack WordPress Developer (Frontend-Oriented) with 8 years of expertise in WordPress development. 
-  Specialized in Web development, SEO, SEM, and e-commerce solutions. 
+  Fullstack WordPress Developer (Frontend-Oriented) with 8 years of expertise in WordPress development.
+  Specialized in Web development, SEO, SEM, and e-commerce solutions.
   My expertise lies in frontend development and technical design, but I am also capable of managing end-to-end web projects. Just like any developer should do, I find or create the necessary solution for any web project.
   {{< /faq-item >}}
 
   {{< faq-item title="Technical Support Yasin?" >}}
-  Back in times when I was working in my local area, I worked as a support guy for a brief period. I switched to customer support roles that required less cognitive load. Working remotely allows an easy transition between roles. 
+  Back in times when I was working in my local area, I worked as a support guy for a brief period. I switched to customer support roles that required less cognitive load. Working remotely allows an easy transition between roles.
   I also have hands-on experience with setting up physical servers, client devices, and access points for restaurant automation systems.
   {{< /faq-item >}}
 
@@ -67,6 +67,7 @@ h1.hx-text-center.hx-mt-2.hx-text-4xl.hx-font-bold.hx-tracking-tight.hx-text-sla
   {{< /faq-item >}}
 
   {{< faq-item title="Why Choose Yasin?" >}}
+
   1. If you're looking for a WordPress expert, congratulations—you've found the right person.
   2. If design and aesthetics are your top priorities, I can ensure your project stands out.
   3. If you need a WordPress developer who can adapt to future transitions and evolving project requirements, I am the right fit.
@@ -78,24 +79,23 @@ h1.hx-text-center.hx-mt-2.hx-text-4xl.hx-font-bold.hx-tracking-tight.hx-text-sla
   {{< /faq-item >}}
 
   {{< faq-item title="Why I Stand Out" >}}
-  - **Frontend Expertise:** My strong focus on design and user experience ensures your website not only functions well but also looks stunning.
-  - **Fullstack Capabilities:** From frontend design to backend development and server management, I handle it all.
-  - **Global Experience:** Having worked with Silicon Valley startups, I bring a global perspective to every project.
-  - **Adaptability:** Whether it’s WordPress, headless solutions, or custom PHP projects, I adapt to your needs.
-  - **Problem-Solving Mindset:** I thrive on solving complex challenges and delivering results that drive business growth.
+
+- **Frontend Expertise:** My strong focus on design and user experience ensures your website not only functions well but also looks stunning.
+- **Fullstack Capabilities:** From frontend design to backend development and server management, I handle it all.
+- **Global Experience:** Having worked with Silicon Valley startups, I bring a global perspective to every project.
+- **Adaptability:** Whether it’s WordPress, headless solutions, or custom PHP projects, I adapt to your needs.
+- **Problem-Solving Mindset:** I thrive on solving complex challenges and delivering results that drive business growth.
   {{< /faq-item >}}
 
-
 {{< /faq >}}
-
-
 
 ## Technical Knowledge and Skills
 
 {{< faq >}}
 
   {{< faq-item title="Projects - What I have done?" >}}
-  - A WordPress theme available on [Envato](#).
+
+- A WordPress theme available on [Envato](#).
   - Built custom WooCommerce [REST API frontend dashboard](#) solutions.
   - Elementor and Timber (.twig) [Template engine integration](#).
   - Published Several [free plugins](#) in the WordPress.org library.
@@ -126,24 +126,24 @@ h1.hx-text-center.hx-mt-2.hx-text-4xl.hx-font-bold.hx-tracking-tight.hx-text-sla
 
 {{< /faq >}}
 
-
 ## Services and Work Model
 
 {{< faq >}}
 
   {{< faq-item title="Services I Offer" >}}
-  - **WordPress Consulting:** Expert advice on WordPress projects.
-  - **Custom WordPress Development:** Tailored themes and plugins.
-  - **Website Optimization & Maintenance:** For WordPress and non-WordPress sites.
-  - **E-commerce Integration:** Seamless setup for WooCommerce, Shopify, and OpenCart.
-  - **SEO & Performance Optimization:** Improve speed, rankings, and user experience.
-  - **Web Security & Cloud Scaling:** Secure and optimize your cloud infrastructure.
-  - **Static Site Generation:** Using Hugo or WordPress.
-  - **Headless WordPress Solutions:** Modern, decoupled WordPress architectures.
-  - **Frontend Development & Technical Design:** Pixel-perfect, responsive designs.
-  - **Digital Marketing & SEO Consulting:** Basic strategies to boost your online presence.
-  - **Custom PHP Projects:** Tailored solutions for unique requirements.
-  - **Project Management & Consulting:** End-to-end support for your web projects.
+
+- **WordPress Consulting:** Expert advice on WordPress projects.
+- **Custom WordPress Development:** Tailored themes and plugins.
+- **Website Optimization & Maintenance:** For WordPress and non-WordPress sites.
+- **E-commerce Integration:** Seamless setup for WooCommerce, Shopify, and OpenCart.
+- **SEO & Performance Optimization:** Improve speed, rankings, and user experience.
+- **Web Security & Cloud Scaling:** Secure and optimize your cloud infrastructure.
+- **Static Site Generation:** Using Hugo or WordPress.
+- **Headless WordPress Solutions:** Modern, decoupled WordPress architectures.
+- **Frontend Development & Technical Design:** Pixel-perfect, responsive designs.
+- **Digital Marketing & SEO Consulting:** Basic strategies to boost your online presence.
+- **Custom PHP Projects:** Tailored solutions for unique requirements.
+- **Project Management & Consulting:** End-to-end support for your web projects.
   {{< /faq-item >}}
 
   {{< faq-item title="Work Model" >}}
@@ -155,7 +155,6 @@ h1.hx-text-center.hx-mt-2.hx-text-4xl.hx-font-bold.hx-tracking-tight.hx-text-sla
   {{< /faq-item >}}
 
 {{< /faq >}}
-
 
 ## Contact
 
