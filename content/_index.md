@@ -42,7 +42,7 @@ h1.hx-text-center.hx-mt-2.hx-text-4xl.hx-font-bold.hx-tracking-tight.hx-text-sla
 
 <div class="center">
 {{< cards cols="1">}}
-  {{< card link="mailto:theveloperyasin@gmail.com" title="Contact me via mail" icon="mail" >}}
+  {{< card link="mailto:yasincabuk16@gmail.com" title="Contact me via mail" icon="mail" >}}
 {{< /cards >}}
 </div>
 
