@@ -4,78 +4,52 @@ type: docs
 prev: portfolio
 ---
 
-## Here is the WordPress web site list:
+Please ignore the website optimisations. Those websites are live. I don't manage them anymore.
 
-### Here the last works:
+### English Language Websites
 
-[https://www.optimumisitmecihazi.com/](https://www.optimumisitmecihazi.com/)
+[London Based Coaster Shop](https://coasterhouse.com)
 
-[https://eformul.net](https://eformul.net) / [https://tikohesap.com/](https://tikohesap.com/)
+[Industrial Irrigation Products](https://chapmanirrigation.com)
 
-[https://tetraboss.com](https://tetraboss.com)
+[Software Agency](https://uxly.software)
 
-[https://hasbelagac.com](https://hasbelagac.com)
+[Artfair Events](https://oykucanlicurates.art)
 
-[https://chapmanirrigation.com](https://chapmanirrigation.com)
+[Pottery Artist](https://clay.pixelogs.com/)
 
-[https://uxly.software](https://uxly.software)
+### Turkish Lanuage Websites
 
-[https://coasterhouse.com](https://coasterhouse.com)
+[Industrial Wooden Cable Reel Manufacturer](https://hasbelagac.com)
 
-[https://oykucanlicurates.art](https://oykucanlicurates.art)
+[Cheese & Charcuterie](https://baharesmenler.com/)
 
-[https://clay.pixelogs.com/](https://clay.pixelogs.com/)
+[Gaming Blog](https://gameologs.com)
 
-### Bunch of old works:
+[Cafe & Bakery](https://yasinusta.com.tr)
 
-##### **ONLINE - Still Alive**
+[Phone Repair Service](https://orijinalekran.com)
 
-[https://coasterhouse.com](https://coasterhouse.com)
+[Industrial Gas Installation Services](https://yeni.novamuhendislik.com.tr/)
 
-[https://gameologs.com](https://gameologs.com)
-
-[https://yasinusta.com.tr](https://yasinusta.com.tr)
-
-[https://baharesmenler.com/](https://baharesmenler.com/)
-
-[https://ardemtekstil.com](https://ardemtekstil.com)
-
-[https://partner-crs.com](https://partner-crs.com)
-
-[https://cumhuriyetizgara.com/](https://cumhuriyetizgara.com/)
-
-[https://lifekinetik.com.tr](https://lifekinetik.com.tr)
-
-[https://amiralgayrimenkul.com](https://amiralgayrimenkul.com)
-
-[https://felice.pro](https://felice.pro)
-
-[https://orijinalekran.com](https://orijinalekran.com)
-
-[https://lavinyaotel.com](https://lavinyaotel.com)
-
-[https://eformul.net](https://eformul.net)
-
-[https://hasbelagac.com](https://hasbelagac.com)
-
-[https://chapmanirrigation.com](https://chapmanirrigation.com)
-
-[https://uxly.software](https://uxly.software)
+[Hotel](https://lavinyaotel.com)
 
 [https://website.biz.tr/](https://website.biz.tr/)
 
-##### **OFFLINE - GONE**
+[Multi language Industrial Machine Import&Export](https://felice.pro)
 
-[https://gurasmuhendislik.com](https://gurasmuhendislik.com)
+[Textille](https://ardemtekstil.com)
 
-[https://lemicaglar.com.tr/](https://lemicaglar.com.tr/)
+[Industrial Quality Control](https://partner-crs.com)
 
-[https://irdtowntwinning.com](https://irdtowntwinning.com)
+[Life Kinetik](https://lifekinetik.com.tr)
 
-[https://mysia.irdtowntwinning.com](https://mysia.irdtowntwinning.com)
+[Real Estate](https://amiralgayrimenkul.com)
 
-[https://jointurizm.com.tr](https://jointurizm.com.tr)
+[Local HR Company](https://yeni.inkamaviyaka.com/)
 
-[https://kayarestaurant.com.tr](https://kayarestaurant.com.tr)
+[Accounting Software Website](https://tikohesap.com/)
 
-[https://altinparktesisleri.com/bursa/](https://altinparktesisleri.com/bursa/)
+[Hearing Devices Seller](https://www.optimumisitmecihazi.com/)
+
+[Medical Products Shop](https://medikalmalzemeci.net/)
