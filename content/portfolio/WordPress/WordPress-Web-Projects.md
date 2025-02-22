@@ -20,6 +20,8 @@ Please ignore the website optimisations. Those websites are live. I don't manage
 
 ### Turkish Lanuage Websites
 
+[Solar Energy Products Website](https://www.hilalsolar.com/)
+
 [Industrial Wooden Cable Reel Manufacturer](https://hasbelagac.com)
 
 [Cheese & Charcuterie](https://baharesmenler.com/)
