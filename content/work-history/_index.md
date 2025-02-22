@@ -18,91 +18,148 @@ p.hx-mb-4.hx-font-semibold.hx-tracking-tight {
 
 {{% steps %}}
 
-
 ### Software Engineer at UXly Software
 *August 2022 - March 2024 | San Francisco (Remote)*
 
-Led development initiatives for Silicon Valley startups, focusing on high-performance web solutions and e-commerce platforms. Specialized in WordPress and Shopify implementations while maintaining strict NDA compliance.
+Worked with Silicon Valley startups on high-performance web solutions, focusing on WordPress and e-commerce implementations while maintaining strict NDA compliance.
 
 #### Key Achievements:
-- Spearheaded a major Silicon Valley project that achieved significant performance improvements:
-  - 30% reduction in bounce rates
-  - 25% faster page load times
-  - 35% increase in customer satisfaction metrics
 
-#### Technical Contributions:
-- Implemented advanced WordPress solutions using Timber and Taxi.js, integrated with Elementor
-- Developed and optimized e-commerce platforms using WordPress and Shopify
-- Created sophisticated micro-interactions using GSAP, resulting in 80% improvement in user engagement
-- Managed comprehensive cloud infrastructure and DNS configurations
-- Integrated various CRM tools, including HubSpot, ensuring seamless data collection
-
-#### Development Methodology:
-- Pixel-perfect implementation of Figma designs into WordPress themes
-- Focus on performance optimization and user experience
-- Implementation of comprehensive tracking solutions using Google Tag Manager
-- Regular A/B testing to optimize user engagement
-
-
-### Web Master and Technical Support at Dedo Yazılım
-*April 2016 - July 2021 | Bursa*
-
-Served as the primary web development resource, handling everything from initial design to ongoing maintenance and optimization.
-
-#### Key Responsibilities:
-- Collaborated with creative teams and project managers on website planning and design
-- Developed websites using HTML, CSS, JavaScript, PHP, and WordPress
-- Managed cloud/VPS servers and shared hosting environments
-- Handled domain management for 80+ domains through Cloudflare DNS
+- Led a major Silicon Valley project resulting in:
+- 30% reduction in bounce rates
+- 25% improvement in page load times
+- 35% increase in customer satisfaction
 
 #### Technical Implementations:
-- Set up and maintained Google Analytics and Search Console for 100+ landing pages
-- Implemented structured data (rich snippets) for enhanced SEO
-- Configured GTM tracking systems for comprehensive data collection
-- Conducted regular A/B testing for company projects
+- Developed custom WordPress solutions using Timber (.twig) and Taxi.js
+- Integrated Elementor with custom development workflows
+- Created advanced micro-interactions using GSAP
+- Implemented comprehensive digital marketing infrastructure:
+  - Google Tag Manager setup
+  - Custom landing page development
+  - HubSpot CRM integration
+  - Spam-free data collection systems
 
-#### Achievements:
-- Maintained 100% customer retention rate
-- Achieved 99% uptime for hosted solutions
-- Delivered pixel-perfect implementations matching client requirements
-
-### Freelance Developer and Web Consultant
-*July 2019 - Present | Global*
-
-Provide comprehensive web development and consulting services to small and medium-sized businesses globally. Focus on creating tailored solutions using modern web technologies and platforms.
-
-#### Services Provided:
-- Custom WordPress and WooCommerce implementations
-- Shopify store development and optimization
-- Webflow design and development
-- API integrations and custom solutions
-- Performance optimization and security implementations
-
-#### Project Highlights:
-- Developed custom e-commerce solutions for international clients
-- Implemented multi-language websites for global businesses
-- Created automated marketing solutions through API integrations
-- Optimized existing websites for improved performance and user experience
-
+#### Development Focus:
+- Performance optimization using industry standard methods
+- Pixel-perfect Figma to WordPress conversions
+- Cloud infrastructure management
+- DNS and email system configuration
+- WooCommerce and Shopify e-commerce solutions
 
 ### Web Developer at Tetraport Teknoloji
 *February 2022 - August 2022 | Istanbul (Remote)*
 
-Managed end-to-end web development operations while handling infrastructure and client relationships for a growing technology company.
+Led technical operations for web development projects while managing infrastructure and client relationships.
 
-#### Technical Responsibilities:
-- Managed Windows-based VPS infrastructure with 99% uptime
-- Configured and maintained DNS systems and corporate email infrastructure
-- Developed and optimized websites for SAAS projects
-- Led WordPress and WooCommerce implementations
+#### Key Responsibilities:
+- Spearheaded WordPress and WooCommerce development initiatives
+- Managed Windows VPS environments and DNS configurations
+- Implemented corporate email systems with 99% reliability
+- Developed and optimized SaaS projects
 
 #### Business Impact:
-- 20% improvement in client satisfaction through enhanced e-commerce consulting
-- 25% increase in organic traffic through SEO and performance optimizations
-- 15% improvement in user experience through new feature implementations
+- 20% improvement in client satisfaction rates
+- 25% increase in organic traffic through optimization
+- Enhanced user experience through feature development
+- Streamlined platform integration processes
+
+### Web Master and Technical Support at Dedo Yazılım
+*April 2016 - July 2021 | Bursa*
+
+Served as lead web developer and technical support specialist, handling both digital and physical infrastructure.
+
+#### Web Development:
+- Built and maintained client websites using:
+  - HTML, CSS, JavaScript
+  - PHP and WordPress
+  - Custom theme development
+- Managed hosting infrastructure:
+  - Cloud/VPS server administration
+  - Shared hosting environment optimization
+  - 99% uptime maintenance
+- Handled domain management for 80+ domains via Cloudflare DNS
+
+#### Technical Implementation:
+- Set up comprehensive analytics solutions:
+  - Google Analytics configuration
+  - Search Console integration
+  - Structured data implementation
+  - GTM tracking systems
+  - A/B testing for landing pages
+
+#### Additional Responsibilities:
+- Provided technical support for restaurant automation software
+- Managed hardware installation for point-of-sale systems
+- Maintained 100% customer satisfaction rate
+- Ensured seamless integration of software and hardware solutions
+
+### Freelance Web Consultant
+*July 2021 - Present | Global*
+
+Provide comprehensive web development and consulting services for small and medium-sized businesses globally.
+
+#### Services:
+- Custom WordPress development
+- Webflow design and implementation
+- Shopify store creation and optimization
+- WooCommerce solutions
+- API integrations
+
+#### Technical Expertise:
+- Custom theme and plugin development
+- E-commerce platform optimization
+- Payment gateway integration
+- Performance optimization
+- Security implementation
+- Multi-platform integration
+
+### Technical Stack Overview
+
+#### Backend Development:
+- PHP (OOP, MVC)
+- REST API implementation
+- MySQL database management
+- NextJS (in progress)
+
+#### Frontend Technologies:
+- JavaScript, jQuery, Flux
+- ReactJS
+- HTML5, Semantic CSS3
+- SASS
+- Technical SEO
+
+#### WordPress Expertise:
+- Advanced Custom Fields (ACF)
+- Theme & Plugin Development
+- Gutenberg
+- Page Builders (Oxygen, Elementor, WPBakery, Divi)
+
+#### DevOps & Infrastructure:
+- Git version control
+- Linux server administration
+- Cloud/VPS setup (AWS/Google)
+- Web server configuration (Nginx, Apache, LiteSpeed)
+- Cloudflare CDN implementation
+- Email infrastructure management
+
+#### E-commerce Solutions:
+- WooCommerce
+- Shopify
+- Custom PHP solutions
+- B2B/B2C implementations
+- XML integrations
+- Payment/POS solutions
+
+#### Project Management & Design:
+- Figma
+- Webflow
+- Static Site Generation (Hugo/WordPress)
+- Adobe Creative Suite (Photoshop, Illustrator)
+- Project management tools (Slack, Trello, Notion, Jira)
 
 {{% /steps %}}
 
 ---
 
-*This work history demonstrates my progression from local web development projects to international remote work, highlighting my ability to adapt to different technical requirements and business environments.*
+*This work history reflects my progression in web development, highlighting both technical expertise and business impact across various platforms and technologies.*
