@@ -165,3 +165,13 @@ h1.hx-text-center.hx-mt-2.hx-text-4xl.hx-font-bold.hx-tracking-tight.hx-text-sla
   {{< /faq-item >}}
 
 {{< /faq >}}
+
+
+<div class="hx-mt-8 hx-border-t hx-bg-white hx-pt-8 hx-shadow-[0_-12px_16px_white] dark:hx-bg-dark dark:hx-shadow-[0_-12px_16px_#111] hx-sticky hx-bottom-0 hx-flex hx-flex-col hx-items-start hx-gap-2 hx-pb-8 dark:hx-border-neutral-800 contrast-more:hx-border-t contrast-more:hx-border-neutral-400 contrast-more:hx-shadow-none contrast-more:dark:hx-border-neutral-400"><button aria-hidden="false" id="backToTop" onclick="scrollUp()" class="hx-transition-all hx-duration-75 hx-text-xs hx-font-medium hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-100 contrast-more:hx-text-gray-800 contrast-more:dark:hx-text-gray-50">
+<span>Scroll to top</span><svg fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentcolor" class="hx-inline ltr:hx-ml-1 rtl:hx-mr-1 hx-h-3.5 hx-w-3.5 hx-border hx-rounded-full hx-border-gray-500 hover:hx-border-gray-900 dark:hx-border-gray-400 dark:hover:hx-border-gray-100 contrast-more:hx-border-gray-800 contrast-more:dark:hx-border-gray-50"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 15.75l7.5-7.5 7.5 7.5"></path></svg></button></div>
+
+<style>
+  button#backToTop {
+    align-self: center;
+}
+</style>  
