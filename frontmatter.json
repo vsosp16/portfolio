@@ -24,10 +24,7 @@
   "frontMatter.content.publicFolder": "static",
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
-    {
-      "title": "portfolio",
-      "path": "[[workspace]]"
-    },
+
     {
       "title": "content",
       "path": "[[workspace]]/content"
@@ -35,10 +32,6 @@
     {
       "title": "portfolio",
       "path": "[[workspace]]/content/portfolio"
-    },
-    {
-      "title": "content",
-      "path": "[[workspace]]/content"
     },
     {
       "title": "WordPress",
