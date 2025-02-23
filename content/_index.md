@@ -37,7 +37,7 @@ h1.hx-text-center.hx-mt-2.hx-text-4xl.hx-font-bold.hx-tracking-tight.hx-text-sla
   {{< card link="work-history" title="Professional Work History" icon="briefcase" >}}
   {{< card link="portfolio" title="Portfolio" icon="cards" >}}
   {{< card link="blog" title="Blog" icon="book-open" >}}
-  {{< card link="<https://calendly.com/yasincabuk/30min>" title="Need me for a project?" icon="calendar" >}}
+  {{< card link="https://calendly.com/yasincabuk/30min" title="Need me for a project?" icon="calendar" >}}
 {{< /cards >}}
 
 <div class="center">
