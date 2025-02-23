@@ -11,7 +11,7 @@ If you need to use WordPress, Gutenberg is the safe way. But if you want to use 
 
 * **Core WordPress Integration:** Gutenberg is deeply integrated into WordPress, ensuring compatibility with future updates.
 * **Performance:** It's lightweight and contributes to faster website loading times.
-* **Future-Proof:** WordPress is actively developing Gutenberg, adding new features and improvements.
+* **Future-Proof:** WordPress team is actively developing Gutenberg, adding new features and improvements.
 * **Free and Open Source:** Gutenberg is completely free and open source, allowing for community contributions and customization.
 * **Accessibility:** Designed with accessibility standards in mind.
 
