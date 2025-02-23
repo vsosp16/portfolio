@@ -9,27 +9,12 @@
         {
           "title": "title",
           "name": "title",
-          "type": "string"
+          "type": "datetime"
         },
         {
-          "title": "type",
-          "name": "type",
-          "type": "string"
-        },
-        {
-          "title": "prev",
-          "name": "prev",
-          "type": "string"
-        },
-        {
-          "title": "width",
-          "name": "width",
-          "type": "string"
-        },
-        {
-          "title": "disableSidebar",
-          "name": "disableSidebar",
-          "type": "boolean"
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
         }
       ]
     }
